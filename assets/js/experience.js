@@ -145,12 +145,12 @@ const mentor = [
   {
     title: "C#",
     subtitle: "⭐",
-    image: "assets/images/experience-page/csharp.jpg",
+    image: "assets/images/experience-page/csharp.png",
     desp: "Apenas empeze a programar con este lenguaje me parece muy interesante.",
   },
   {
     title: "Java",
-    subtitle: "⭐",
+    subtitle: "⭐⭐",
     image: "assets/images/experience-page/java.png",
     desp: "Tengo conociminetos muy basicos en este lenguaje, no me atrae tanto la verdad.",
   },
