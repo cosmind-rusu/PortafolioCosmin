@@ -207,12 +207,6 @@ let footer = $(`
 </footer>
 `);
 
-// Botón "Desplazarse hacia arriba"
-let upArrow = $(`
-  <button id="btnScrollToTop" onclick="scrollToTop()"><i class="fas fa-2x fa-angle-up"></i></button>
-  <link rel="stylesheet" type="text/css" href="./css/style.css" />
-  })
-`);
 
 // función para el botón "Desplazarse hacia arriba" para detectar el pie de página
 $(document).ready(function () {
