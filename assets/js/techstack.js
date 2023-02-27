@@ -73,9 +73,6 @@ const techStack = [
     langDesc: "<li>Un lenguaje de programación dedicado al desarrollo de videojuegos.</li>",
   },
 
-
-  
-
 ];
 
 const displayTechStacksCards = () => {
