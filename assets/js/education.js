@@ -5,19 +5,24 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Desarrollo de videojuegos",
+    cardImage: "https://th.bing.com/th/id/R.30debc2617f2ba58fa578581f35789c7?rik=mcQnH171tZm8tQ&pid=ImgRaw&r=0",
+    moocLink: "",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Robotica",
+    cardImage: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Robot.jpg",
+    moocLink: "",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Deep Learning",
+    cardImage: "https://th.bing.com/th/id/OIP.iIpsFkiAfjzAa-rnnA2l1gHaE8?pid=ImgDet&rs=1",
+    moocLink: "",
+  },
+  {
+    title: "Ciberseguridad",
+    cardImage: "https://th.bing.com/th/id/OIP.e1TbRCt-f8LY5_6C9CyWPQHaD4?pid=ImgDet&rs=1",
+    moocLink: "",
   },
 
 ];
