@@ -1,7 +1,5 @@
 AOS.init();
 
-//  Tech Stacks cards
-
 const techStackCards = document.querySelector(".techstack-box");
 const techStack = [
   {
@@ -80,5 +78,6 @@ const displayTechStacksCards = () => {
       `}).join('');
   techStackCards.innerHTML = entireCardTemplate;
 };
+
 // displayTechStacksCards(techStack)
 document.addEventListener("DOMContentLoaded", displayTechStacksCards);

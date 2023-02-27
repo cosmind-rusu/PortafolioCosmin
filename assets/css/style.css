@@ -3,9 +3,7 @@
     src: url(../fonts/Agustina.woff);
 }
 
-
 /*CSS para el modo noche/modo claro */
-
 
 html[data-theme="light"] {
     --bg-mybtn: red;
