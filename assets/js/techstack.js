@@ -3,44 +3,69 @@ AOS.init();
 const techStackCards = document.querySelector(".techstack-box");
 const techStack = [
   {
-    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-    langName: "HyperText Markup Language",
-    langDesc: "<li></li>",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+    langName: "Visual Studio Code",
+    langDesc: "<li>Mi editor de texto plano favorito, su punto fuerte son las extensiones.</li>",
   },
   {
-    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-    langName: "Cascading Style Sheets",
-    langDesc: "<li>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML</li>",
-  },
-  {
-    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
-    langName: "JavaScript",
-    langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
-  },
-  {
-    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg",
-    langName: "Ruby",
-    langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+    langName: "Docker",
+    langDesc: "<li>La ballena que ejecuta todo.</li>",
   },
   {
     langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
     langName: "Git",
-    langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
+    langDesc: "<li>Git es la herramineta por preferencia de control de versiones de los desarrolladores.</li>",
   },
   {
-    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-    langName: "Bootstrap",
-    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg",
+    langName: "Azure",
+    langDesc: "<li>Servidores, rapidez y Cloud ¿Necesito algo más?</li>",
   },
   {
-    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
-    langName: "C#",
-    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg",
+    langName: "Google Cloud",
+    langDesc: "<li>Muy sencillo y rápido, lo recomendaria para empezar.</li>",
+  },
+  {
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg",
+    langName: "Jira",
+    langDesc: "<li>Cuando gestiono grupos o equipos lo primero que pienso es en jira.</li>",
   },
   {
     langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
     langName: "Wordpress",
-    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
+    langDesc: "<li>El CMS más usado en todo el mundo.</li>",
+  },
+  {
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg",
+    langName: "Angular",
+    langDesc: "<li>Mi primer Framework de Javascript, me gusta mucho poder implementarlo en mis proyectos.</li>",
+  },
+  {
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    langName: "Javascript",
+    langDesc: "<li>El lenguaje de programacion del desarrollo web.</li>",
+  },
+  {
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+    langName: "Bootstrap",
+    langDesc: "<li>Mi libreria de estilos favorita, para mi simplemente perfecta.</li>",
+  },
+  {
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
+    langName: "C#",
+    langDesc: "<li>Un lenguaje muy rudo pero facil de aprender.</li>",
+  },
+  {
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg",
+    langName: "Ruby",
+    langDesc: "<li>Empece a probar diferentes lenguajes de programación y me he dado cuenta que ruby es mi favorito.</li>",
+  },
+  {
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg",
+    langName: "Go",
+    langDesc: "<li>Rápido y escalable. Go me parece un lenguaje de futuro, cada dia aprendo más con él.</li>",
   },
 
 ];
