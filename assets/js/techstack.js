@@ -8,50 +8,41 @@ const techStack = [
     langDesc: "<li></li>",
   },
   {
-    langImage: "assets/images/techstack-page/css.png",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
     langName: "Cascading Style Sheets",
     langDesc: "<li>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML</li>",
   },
   {
-    langImage: "assets/images/techstack-page/javascript.png",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
     langName: "JavaScript",
     langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
   },
   {
-    langImage: "assets/images/techstack-page/node.png",
-    langName: "Node",
-    langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/python.png",
-    langName: "Python",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg",
+    langName: "Ruby",
     langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
   },
   {
-    langImage: "assets/images/techstack-page/cpp.png",
-    langName: "C++",
-    langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/git.png",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
     langName: "Git",
     langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
   },
   {
-    langImage: "assets/images/techstack-page/bootstrap.png",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
     langName: "Bootstrap",
     langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
   },
   {
-    langImage: "assets/images/techstack-page/react.png",
-    langName: "React",
-    langDesc: "<li>React is a free and open-source front-end JavaScript library for building user interfaces based on UI components</li>",
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
+    langName: "C#",
+    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
   },
   {
-    langImage:"assets/images/techstack-page/c.png",
-    langName:"C",
-    langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg",
+    langName: "Wordpress",
+    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
   },
+
 ];
 
 const displayTechStacksCards = () => {
