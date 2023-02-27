@@ -175,7 +175,7 @@ let footer = $(`
 
 
 
-    <a class="social-button instagram" href="https://www.instagram.com/cosmiiin_16/" target="_blank" >
+    <a class="social-button instagram" href="https://www.instagram.com/cosmiiin_18/" target="_blank" >
     <!-- svg code for instagram icon -->
       <svg class="instagram-icon-footer" x="0px" y="0px" viewBox="0 0 202.5 202.5"
         style="enable-background:new 0 0 202.5 202.5;">
@@ -186,7 +186,7 @@ let footer = $(`
       </svg>
     </a>
 
-    <a class="social-button github" href="https://github.com/Cosmin016X" target="_blank">
+    <a class="social-button github" href="https://github.com/cosmind-rusu" target="_blank">
     <!-- SVG code for Github icon -->
     <svg class="github-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
         <!-- body -->
