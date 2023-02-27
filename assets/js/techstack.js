@@ -67,6 +67,14 @@ const techStack = [
     langName: "Go",
     langDesc: "<li>Rápido y escalable. Go me parece un lenguaje de futuro, cada dia aprendo más con él.</li>",
   },
+  {
+    langImage: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg",
+    langName: "Lua",
+    langDesc: "<li>Un lenguaje de programación dedicado al desarrollo de videojuegos.</li>",
+  },
+
+
+  
 
 ];
 
