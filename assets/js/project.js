@@ -25,8 +25,8 @@ const projects = [
     cardImage: "assets/images/project-page/launcher.png",
     description: "Un launcher personalizado para entrar a FiveM.",
     tagimg: "",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "assets/archivos/launcher.exe",
+    Githublink: "https://github.com/cosmind-rusu/Launcher-Corp-RP",
   },
   {
     title: "TJ-ADMIN",
@@ -34,7 +34,7 @@ const projects = [
     description: "Gestor de Base de datos para FiveM.",
     tagimg: "",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/cosmind-rusu/MX-ADMIN",
   },
   {
     title: "MinXbot",
