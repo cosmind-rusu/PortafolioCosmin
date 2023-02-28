@@ -53,12 +53,20 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "F",
-    cardImage: "assets/images/project-page/unitylogo.png",
-    description: "Un minijuego de FPS basado en Unity.",
+    title: "RailMarket",
+    cardImage: "",
+    description: "Aplicacion Web de comercio, basada en Ruby on Rails (DESARROLLO)",
     tagimg: "",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/cosmind-rusu/railMarket",
+  },
+  {
+    title: "Angular DB-FB",
+    cardImage: "",
+    description: "CRUD, basado en angular, para la gestion de una microempresa",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "https://github.com/cosmind-rusu/Angular-DB-FB",
   },
 ];
 
